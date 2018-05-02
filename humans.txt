@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Kenzy O'Neill> -- <CU Boulder 2018> -- <Creative Dev>
+
 
 # THANKS
 
-    <name>
+    <David Schaal for all of the guidance!>
 
 # TECHNOLOGY COLOPHON
 
